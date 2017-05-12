@@ -135,7 +135,7 @@ class MainView(Frame):
 		hp.show()
 
 def open_src():
-	webbrowser.open("http://www.github.com/hmnhGeek/bmigui")
+	webbrowser.open("https://github.com/hmnhGeek/Simple-BMI-Calculator")
 
 if __name__ == '__main__':
 	root = Tk()
